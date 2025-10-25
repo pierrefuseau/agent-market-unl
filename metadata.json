@@ -1,0 +1,5 @@
+{
+  "name": "Agent Marketing - Éditeur d'Images",
+  "description": "An AI-powered image editor with a professional interface for marketing needs. Upload an image, describe your edits in natural language, and let Gemini generate the result.",
+  "requestFramePermissions": []
+}
